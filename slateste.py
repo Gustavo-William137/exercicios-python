@@ -1,0 +1,1 @@
+print("Ana\nJoão\nCarlos\nMaria\njoão")
